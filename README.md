@@ -17,6 +17,9 @@ Built with **HTML, CSS, and JavaScript**.
 └── assets/ # Images and icons
 ```
 
+## 🌏 Visit the page
+[See the page live online](https://leticiazorzirama.github.io/secret-friend-draw/)
+
 ## ✨ Thanks for checking out this project!
 Let me know if you liked it, and consider giving it a ⭐ on GitHub.
 Have fun with your Secret Friend Draw! 🎉
